@@ -1,4 +1,5 @@
 hello git
 this is a second line 
-i want to take another snapshot
+i want to take another snapsho
 
+this is a new thing
